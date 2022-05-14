@@ -1,0 +1,33 @@
+body {
+  font-family: roboto, 'Trebuchet MS';
+  background-color: #515151;
+  color: #FFF;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #0099cc;
+  text-align: center;
+}
+
+table {
+  border: 2px solid #0099cc;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: #0099cc;
+}
+
+td {
+  border-top: 1px solid #FFF;
+}
+
+.code {
+  font-family: monospace;
+  background-color: #7A7A7A;
+}
